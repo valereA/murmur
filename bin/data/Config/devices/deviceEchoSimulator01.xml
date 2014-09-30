@@ -4,9 +4,6 @@
         <volHistoryNb>92.000000000</volHistoryNb>
         <volHistoryTh>0.205645174</volHistoryTh>
     </soundInput>
-    <soundOutput>
-        <speaker>1</speaker>
-    </soundOutput>
     <enableStandby>1</enableStandby>
     <timeStandby>10.000000000</timeStandby>
     <sampleVolStandby>0.320000023</sampleVolStandby>
